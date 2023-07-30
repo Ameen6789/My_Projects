@@ -1,0 +1,2 @@
+lr-model.pickle:  
+  A previously created ml model using linear regression model for predicting Bangalore House prices. 
