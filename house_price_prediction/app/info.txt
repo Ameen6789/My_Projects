@@ -1,2 +1,7 @@
 lr-model.pickle:  
   A previously created ml model using linear regression model for predicting Bangalore House prices. 
+
+main.py:
+  A UI based python app where the ml model is integrated to predict house prices.
+  UI is made using PyQt5 python module.
+  PyQt5 version ==5.15.9.
