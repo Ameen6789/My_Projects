@@ -2,4 +2,4 @@ Created a Real time face emotion detection using mediapipe.Here the face of the 
 By using that data created a model using sklearn.Created models using random forest,logistic regression,ridge clasifier,knn,svm algorithms.Since Random Forest givess the best 
 accuracy It is used as the final model.
 The coord_emotion.csv.zip contains the csv file which is contains keypoints collected. 
-To Run Real Time detection just run test.py
+To Run Real Time detection just run test.py 
