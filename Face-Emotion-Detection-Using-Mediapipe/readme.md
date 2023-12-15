@@ -1,7 +1,7 @@
 <h1>Real Time Face Emotion Detection USing Mediapipe</h1>
 
 <h2>Demo</h2>
-https://github.com/Ameen6789/My_Projects/assets/70131572/bb3c8648-6ba4-441e-a126-0c0c7f9c4564
+https://github.com/Ameen6789/My_Projects/assets/70131572/bb3c8648-6ba4-441e-a126-0c0c7f9c4564 
 
 ![sad1](https://github.com/Ameen6789/My_Projects/assets/70131572/84e35a0c-433f-4271-b453-2797238f89b3)
 ![angry1](https://github.com/Ameen6789/My_Projects/assets/70131572/2f4e2eb1-a341-42ff-86d3-8d571c4c11ce)
