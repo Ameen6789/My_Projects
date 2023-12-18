@@ -16,5 +16,5 @@ accuracy It is used as the final model.
 <ul>
 <li>The coord_emotion.csv.zip contains the csv file which contains the keypoints collected. 
 
-<li>To Run Real Time detection just run test.py </li>
+<li>To Run Real Time detection first install required dependencies in requirements.txt and run test.py </li>
 </ul> 
